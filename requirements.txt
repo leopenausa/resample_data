@@ -2,4 +2,3 @@ matplotlib
 streamlit
 scipy
 pandas
-bisect
