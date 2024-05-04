@@ -1,3 +1,5 @@
-matplotlib==3.5.1
-jsonschema==4.4.0
-scipy==1.7.3
+matplotlib
+streamlit
+scipy
+pandas
+bisect
